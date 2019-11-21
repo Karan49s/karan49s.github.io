@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(77, 38, 38);
+}
+
+.header-container {
+    color: beige;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header-name {
+    color: blanchedalmond;
+    font-size: 3em;
+}
+
+.navigation-container {
+    color: beige;
+    display: flex;
+    font-size: 1.5em;
+    flex-direction: row;
+}
+
+li {
+    list-style-type: none;
+}
